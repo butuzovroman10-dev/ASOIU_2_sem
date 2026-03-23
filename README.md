@@ -7,7 +7,8 @@
 | № | Тема | Ссылка |
 |---|------|--------|
 | 1 | Семинар 1| [Открыть](https://github.com/butuzovroman10-dev/sem1_ASOIU) |
-| 2 | Семинар 2| [Открыть] |
+| 2 | Семинар 2| [Открыть](https://github.com/butuzovroman10-dev/sem2_ASOIU) |
+| 3 | Семинар 2| [Открыть]() |
 
 ### lectures
 
